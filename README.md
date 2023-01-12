@@ -91,3 +91,5 @@ settings.json
   }
 }
 ```
+## Instalar dependencias com o requirements.txt
+pip install -r requirements.txt
